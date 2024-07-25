@@ -13,10 +13,10 @@ The game I developed is a puzzle game that challenges players to navigate throug
 The purpose of writing this software was to deepen my understanding of game development using Unity and C#. I wanted to create a comprehensive project that would allow me to experiment with different features of Unity, from basic block programming to advanced C# scripting. This project has been a significant learning experience, helping me to develop my problem-solving skills and gain hands-on experience with game development.
 
 Dowload the zip foler
-
+[Game Folder](https://drive.google.com/file/d/1_0gVfOYEqborFu038y-uLl26jH3hb9ZV/view?usp=sharing)
 
 [Software Demo Video](https://www.youtube.com/watch?v=NSmy6QgUOUA)
-[Game Folder]([https://www.youtube.com/watch?v=NSmy6QgUOUA](https://drive.google.com/file/d/1_0gVfOYEqborFu038y-uLl26jH3hb9ZV/view?usp=sharing))
+
 
 
 # How to Use the Code
