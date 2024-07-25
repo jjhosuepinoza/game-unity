@@ -14,8 +14,9 @@ The purpose of writing this software was to deepen my understanding of game deve
 
 Dowload the zip foler
 
-[Game Foler]([https://www.youtube.com/watch?v=NSmy6QgUOUA](https://drive.google.com/file/d/1_0gVfOYEqborFu038y-uLl26jH3hb9ZV/view?usp=sharing))
+
 [Software Demo Video](https://www.youtube.com/watch?v=NSmy6QgUOUA)
+[Game Folder]([https://www.youtube.com/watch?v=NSmy6QgUOUA](https://drive.google.com/file/d/1_0gVfOYEqborFu038y-uLl26jH3hb9ZV/view?usp=sharing))
 
 
 # How to Use the Code
