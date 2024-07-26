@@ -2,6 +2,7 @@
 
 Dowload the zip folder
 [Game Folder](https://drive.google.com/file/d/1QAhj4xYqakpkILd1Txhov_BU7bWj4Bzy/view?usp=sharing)
+The scripts that I created are in Assets/Scripts
 # Overview
 
  My latest endeavor is a game developed with Unity and C#. This project has impressed me with how well everything works together. Unity's capability to develop games even on computers with low resources is remarkable. This game serves as a testbed for exploring the wide range of possibilities with Unity, such as block programming and adding functionalities through C#.
