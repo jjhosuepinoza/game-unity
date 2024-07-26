@@ -1,6 +1,6 @@
 # Game-Unity
 
-Dowload the zip foler
+Dowload the zip folder
 [Game Folder](https://drive.google.com/file/d/1QAhj4xYqakpkILd1Txhov_BU7bWj4Bzy/view?usp=sharing)
 # Overview
 
